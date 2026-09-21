@@ -1,0 +1,68 @@
+version: 1
+title: 'Tao''s Story Garden: The Bell That Still Rang'
+slug: translation-58-en-9a6a02
+summary: Ahe covers his ears and thinks nobody can hear the bell. Six illustrated
+  chapters about a very small sound and an honest change of heart.
+cover_color: '#458f87'
+cover_asset: assets/e98143f77d5a0959994ae2c12c12f708a3d5faf932d3e2f610f77c167ce41328.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: en
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 66065836fc15f198046fc98d5a9678495f30043ad3788faec9b7804f205500ed
+  source_novel_id: 58
+  source_slug: novel-16cf768c-a74a4d
+  source_title: 小桃的成語小院：掩耳盜鈴
+  source_version_id: 98
+  target_language: en
+  translator: Humanread Founder
+chapters:
+- id: 869
+  title: A Little Gold by the Door
+  position: 1
+  file: chapters/0001-869.html
+  format: sandbox-html-css
+  share_card: null
+- id: 870
+  title: Quicker Than a Finger
+  position: 2
+  file: chapters/0002-870.html
+  format: sandbox-html-css
+  share_card: null
+- id: 871
+  title: A Door Only He Could Close
+  position: 3
+  file: chapters/0003-871.html
+  format: sandbox-html-css
+  share_card: null
+- id: 872
+  title: Inside the House
+  position: 4
+  file: chapters/0004-872.html
+  format: sandbox-html-css
+  share_card: null
+- id: 873
+  title: Empty Hands, Honest Words
+  position: 5
+  file: chapters/0005-873.html
+  format: sandbox-html-css
+  share_card: null
+- id: 874
+  title: Listening Together
+  position: 6
+  file: chapters/0006-874.html
+  format: sandbox-html-css
+  share_card: null
